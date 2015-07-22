@@ -5,11 +5,11 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Dropcart
+tagline:             Website documentatie
+url:                 https://dropcart.nl
 paginate:            1
-baseurl:             "http://dropcart.github.io/docs/"
+baseurl:             "http://dropcart.github.io/documentation/"
 
 # Assets
 #
@@ -17,14 +17,3 @@ baseurl:             "http://dropcart.github.io/docs/"
 sass:
   sass_dir:          _sass
   style:            :compressed
-
-# About/contact
-author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
-
-# Custom vars
-version:             2.0.0
-github:
-  repo:              http://dropcart.github.io/docs/
